@@ -1,2 +1,2 @@
 # django-jane
-Your favorite Janelle Monae lyric generator!
+Your favorite Janelle Monáe lyric generator!
